@@ -1,7 +1,9 @@
 # url-shortener
-
+**Image 1**
 ![display1](/images/1.png)
+**Image 2**
 ![display1](/images/2.png)
+**Image 3**
 ![display1](/images/3.png)
 
  **NOTE**:
