@@ -1,4 +1,7 @@
+
 # url-shortener
+[![HitCount](http://hits.dwyl.com/ashky23/url-shortener.svg)](http://hits.dwyl.com/ashky23/url-shortener)
+
 **Image 1**
 ![display1](/images/1.png)
 **Image 2**
